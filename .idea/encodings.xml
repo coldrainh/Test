@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/MainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/ShellManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/ShellDatabasePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/ShellExecCommandPanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/ShellFileManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/ShellRSFilePanel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/AppSeting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/DatabaseSetting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/FileDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/GenerateShellLoder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/PluginManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/core/ui/component/dialog/ShellSetting.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/shells/plugins/cshap/RealCmd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/shells/plugins/java/JZip.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/shells/plugins/java/MemoryShell.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/shells/plugins/java/RealCmd.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/util/automaticBindClick.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
